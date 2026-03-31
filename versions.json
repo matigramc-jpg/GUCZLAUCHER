@@ -1,0 +1,17 @@
+[
+  {
+    "name": "1.21.4 (Server)",
+    "url": "https://piston-data.mojang.com/v1/objects/1699980b1e4c35e408801f9f257d07f30a84126c/server.jar",
+    "filename": "server_1.21.4.jar"
+  },
+  {
+    "name": "1.19.2",
+    "url": "https://github.com/matigramc-jpg/GUCZLAUCHER/raw/main/1.19.2.jar",
+    "filename": "1.19.2.jar"
+  },
+  {
+    "name": "1.8.9",
+    "url": "https://www.dropbox.com/scl/fi/4jq978nwjwgmrztp7rr9q/1.8.9.jar?dl=1",
+    "filename": "1.8.9.jar"
+  }
+]
